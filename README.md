@@ -21,7 +21,7 @@ An autonomous, end-to-end real estate market research workflow built using **n8n
 
 ## 🛠️ Architecture & Workflow
 
-![Workflow Screenshot](https://i.ibb.co.com/3ysZvfzN/Screenshot-2026-08-09-084451.png)
-                           
+![Workflow Screenshot](https://i.ibb.co.com/3ysZvfzN/Screenshot-2026-08-09-084451.png) 
              ┌─────────────┼─────────────┐
              ▼           ▼     
+===
